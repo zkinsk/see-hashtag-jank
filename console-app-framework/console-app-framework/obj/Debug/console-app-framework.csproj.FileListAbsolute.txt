@@ -1,7 +1,8 @@
-C:\Users\szins\WorkSpaces\C#\console-app-framework\console-app-framework\obj\Debug\console-app-framework.csprojAssemblyReference.cache
 C:\Users\szins\WorkSpaces\C#\console-app-framework\console-app-framework\obj\Debug\console-app-framework.csproj.CoreCompileInputs.cache
 C:\Users\szins\WorkSpaces\C#\console-app-framework\console-app-framework\bin\Debug\console-app-framework.exe.config
 C:\Users\szins\WorkSpaces\C#\console-app-framework\console-app-framework\bin\Debug\console-app-framework.exe
 C:\Users\szins\WorkSpaces\C#\console-app-framework\console-app-framework\bin\Debug\console-app-framework.pdb
 C:\Users\szins\WorkSpaces\C#\console-app-framework\console-app-framework\obj\Debug\console-app-framework.exe
 C:\Users\szins\WorkSpaces\C#\console-app-framework\console-app-framework\obj\Debug\console-app-framework.pdb
+C:\Users\szins\WorkSpaces\C#\console-app-framework\console-app-framework\obj\Debug\console-app-framework.csproj.AssemblyReference.cache
+C:\Users\szins\WorkSpaces\C#\console-app-framework\console-app-framework\obj\Debug\console-app-framework.csproj.SuggestedBindingRedirects.cache

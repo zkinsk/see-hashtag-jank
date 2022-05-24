@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wC6j1I3tduuZr/hw0uVd3K7jsAn8bGVcL2pLhVC3hT6jg2ir0zDgs6p6/8haiiWalLcSAw+c1Bz1tXWwEdIc8A==",
+  "dgSpecHash": "SOfGmeig4Z69PFQOWqhYCIiqlWRVfn65LAPxJ7zRUoOIJgyLKUc6MSGpx+6+BNaxdW2TfSVbFQRSXrvOYX0jRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\szins\\WorkSpaces\\C#\\Tutorial-ConsoleApp-1\\Tutorial-ConsoleApp-1\\Tutorial-ConsoleApp-1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\szins\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+    "C:\\Users\\szins\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }

@@ -8,11 +8,7 @@ namespace console_app_framework
     {
         static void Main(string[] args)
         {
-            var firstName = "Scott";
-            var lastName = "Zinski";
-            var nameArray = new string[] { "Bob", "Frank", "Fran" };
-            var allNames = String.Join(", ", nameArray);
-            Console.WriteLine(allNames);
+            Console.WriteLine("hello");
         }
     }
 }
