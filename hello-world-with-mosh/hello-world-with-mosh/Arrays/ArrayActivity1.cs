@@ -10,7 +10,7 @@ namespace hello_world_with_mosh.Arrays
     {
         public static void Run()
         {
-            var numbers = new[] { 3, 7, 8, 10 };
+            var numbers = new[] { 30, 7, 8, 10 };
             Console.WriteLine($"Length :: {numbers.Length}");
 
             var indexOfNumber = Array.IndexOf(numbers, 99);
@@ -23,6 +23,8 @@ namespace hello_world_with_mosh.Arrays
             {
                 Console.Write(number + ", ");
             }
+
+            Array.Sort(newArray);
         }
     }
 }
