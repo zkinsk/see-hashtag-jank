@@ -1,21 +1,13 @@
-﻿namespace hello_world_with_mosh
+﻿using hello_world_with_mosh.Arrays;
+
+namespace hello_world_with_mosh
 {
+
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            try
-            {
-            var str = "1234";
-            byte i = Convert.ToByte(str);
-
-            Console.WriteLine(i);
-
-            }
-            catch (Exception error)
-            {
-                Console.WriteLine ($"error :: {error}");
-            }
+            ArrayActivity1.Run();
         }
     }
 }
