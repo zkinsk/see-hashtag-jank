@@ -1,6 +1,6 @@
 ﻿namespace CSharpIntermediate
 {
-    class Installer
+    public class Installer
     {
         private readonly Logger _logger;
 
