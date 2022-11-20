@@ -2,7 +2,8 @@
 
 namespace CSharpIntermediate
 {
-    internal class Logger
+    
+    public class Logger
     {
         public void Log(string message)
         {
