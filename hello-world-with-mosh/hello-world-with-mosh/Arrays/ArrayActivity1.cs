@@ -19,12 +19,19 @@ namespace hello_world_with_mosh.Arrays
             var newArray = new int[3];
 
             Array.Copy(numbers, newArray, 3);
-            foreach(var number in newArray)
+            Console.Write("Un Sorted :: ");
+            foreach (var number in newArray)
             {
                 Console.Write(number + ", ");
             }
 
             Array.Sort(newArray);
+            Console.WriteLine();
+            Console.Write("Sorted :: ");
+            foreach (var (value, idx) in newArray.Select((value, idx) => (  value, idx)))
+            {
+                Console.Write(value + ", ");
+            }
         }
     }
 }
