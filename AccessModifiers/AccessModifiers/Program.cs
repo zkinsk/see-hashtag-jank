@@ -1,12 +1,7 @@
-﻿namespace AccessModifiers;
+﻿using Amazon;
+using ConsoleApp1.GoldCustomer;
 
-public class GoldCustomer : Customer
-{
-    public void OfferVoucher()
-    {
-        Console.WriteLine("Voucher Offered");
-    }
-}
+namespace AccessModifiers;
 
 public static class Program
 {
